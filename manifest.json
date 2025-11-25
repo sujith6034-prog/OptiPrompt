@@ -1,0 +1,28 @@
+{
+  "manifest_version": 3,
+  "name": "Gemini Prompt Optimizer PRO (Fixed)",
+  "version": "3.1",
+  "description": "Optimizes prompts using Gemini generateContent API.",
+  "icons": {
+    "48": "icon48.png",
+    "128":"icon128.png"
+  },
+  "permissions": [
+    "activeTab"
+  ],
+  "host_permissions": [
+    "https://gemini.google.com/*",
+    "https://generativelanguage.googleapis.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://gemini.google.com/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_end"
+    }
+  ]
+}
