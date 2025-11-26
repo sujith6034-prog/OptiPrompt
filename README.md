@@ -1,7 +1,7 @@
 
 # OptiPrompt ✨
 
-**One click → instantly better prompts on gemini.google.com**
+**One click → instantly better prompts on Your Ai chatboxes**
 
 Turn this:  
 "Hey Gemini, write me a story about a robot"  
