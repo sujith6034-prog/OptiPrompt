@@ -24,13 +24,13 @@ Into this (in <1 second):
 5. **Select the folder you just downloaded/unzipped** (the one containing `manifest.json`)
 
 6. Done!  
-   Go to https://gemini.google.com → you’ll see a blue **Optimize** button floating in the bottom-right corner.
+   Go to https://gemini.google.com or any AI chatbox → you’ll see a blue **Optimize** button floating in the bottom-right corner.
 
 That’s it — no Chrome Web Store, no account needed, works instantly.
 
 ### What It Does
 
-Whenever you’re typing a prompt in Gemini:
+Whenever you’re typing a prompt in a chatbox:
 
 → Click the blue **Optimize** button  
 → Your prompt gets rewritten by **Gemini 2.5 Pro** (Google’s smartest model as of Nov 2025)  
